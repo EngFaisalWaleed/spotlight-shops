@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.enggfaisalwaleed.SpotlightShop",
+      "sha_256_cert_fingerprints": [
+        "A6:3A:C9:BA:48:5F:4E:53:33:B2:22:67:CC:06:CF:17:EB:66:93:99:CA:1A:9D:3D:24:87:8A:18:14:71:D6:9A"
+      ]
+    }
+  }
+]
