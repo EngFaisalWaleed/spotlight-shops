@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "466045592379",
+    "project_id": "spotlight-shops",
+    "storage_bucket": "spotlight-shops.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466045592379:android:23e5ae86bac63742964d1e",
+        "android_client_info": {
+          "package_name": "com.enggfaisalwaleed.SpotlightShop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466045592379-kqmak753kt01fsri86ijef2gk72ertce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enggfaisalwaleed.SpotlightShop",
+            "certificate_hash": "93721a634c82baf973dc67924b3381d3f814e3cb"
+          }
+        },
+        {
+          "client_id": "466045592379-7gojgit6mp4fl1chfig0d83esd8ilk5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdg0-ZUk4hsfelsrl4xENDeWoEnz_YfYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466045592379-7gojgit6mp4fl1chfig0d83esd8ilk5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
