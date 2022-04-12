@@ -19,13 +19,32 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.enggfaisalwaleed.SpotlightShop"
+      "bundleIdentifier": "com.enggfaisalwaleed.SpotlightShop",
+      "associatedDomains": ["applinks: spotlight-shops.firebaseapp.com"]
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.enggfaisalwaleed.SpotlightShop",
+      "intentFilters": [
+        {
+          "action": "VIEW",
+          "autoVerify": true,
+          "data": [
+            {
+              "scheme": "https",
+              "host": "spotlight-shops.firebaseapp.com",
+              "path": "/"
+            }
+          ],
+          "category": [
+            "BROWSABLE",
+            "DEFAULT"
+          ]
+        }
+      ]
     },
     "web": {
       "favicon": "./assets/favicon.png"
