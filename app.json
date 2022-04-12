@@ -19,7 +19,8 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.enggfaisalwaleed.SpotlightShop"
+      "bundleIdentifier": "com.enggfaisalwaleed.SpotlightShop",
+      "associatedDomains": ["applinks: spotlight-shops.firebaseapp.com"]
     },
     "android": {
       "adaptiveIcon": {
